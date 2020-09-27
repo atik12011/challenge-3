@@ -1,0 +1,159 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #555;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.center {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+.logo-heading {
+	text-align: center;
+}
+
+.logo-heading img {
+	width: 150px;
+	height: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.logo-heading h1 {
+	font-size: 38px;
+	font-weight: normal;
+	font-family: "Open Sans",arial;
+	color: #666;
+}
+
+.logo-heading h4 {
+	font-size: 23px;
+	font-weight: normal;
+	margin: 5px 0px;
+}
+
+.login-box-area {
+	text-align: center;
+}
+
+.login-box-area {
+	text-align: center;
+	background-color: #f7f7f7;
+	width: 45%;
+	padding: 30px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	box-shadow: 1px 3px 5px #cdcdcd;
+	border-radius: 5px;
+	margin-top: 30px;
+}
+
+.login-box-area img {
+	border-radius: 100%;
+	width: 100px;
+	margin-bottom: 35px;
+	margin-top: 35px;
+}
+
+.login-box-area input {
+	width: 100%;
+	padding: 10px 8px;
+	color: #555;
+	font-size: 17px;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+.login-box-area button {
+	width: 100%;
+	padding: 7px 0px;
+	margin-top: 8px;
+	border: 1px solid #468af8;
+	background-color: #468af8;
+	border-radius: 5px;
+	color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.login-box-area a {
+	text-align: right;
+	display: inherit;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color: #468af8;
+}
+
+.login-footer {
+	text-align: center;
+}
+
+.login-footer a {
+	margin-top: 20px;
+	display: inline-block;
+	font-size: 20px;
+    margin-bottom: 25px;
+    color: #468af8;
+}
+
+.login-footer p {
+	font-size: 19px;
+	color: #555;
+	margin-bottom: 10px;
+}
+
+.login-footer img {
+	width: 285px;
+	margin-top: 5px;
+}
+
+.footer-center {
+	width: 1300px;
+	margin: 0px auto;
+	overflow: hidden;
+	margin-bottom: 40px;
+	margin-top: 15px;
+}
+
+.footer-left {
+	float: left;
+}
+
+.footer-left li {
+	display: inline;
+	margin-left: 20px;
+}
+
+.footer-left li:first-child  {
+	margin-left: 0px;
+}
+
+.footer-left ul li a {
+	font-size: 13px;
+}
+
+.footer-right {
+	float: right;
+}
+
+.footer-right img {
+	position: relative;
+	top: 6px;
+}
+
+.footer-right select {
+	padding: 3px 8px;
+}
